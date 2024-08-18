@@ -30,11 +30,15 @@ You can install the required libraries using pip:
  ![image](https://github.com/user-attachments/assets/9c6e856e-9fc2-4824-98fd-3fe14ab3a27f)
 
 Running the Assistant
+
 To start the assistant, simply run the main.py file:
 ![image](https://github.com/user-attachments/assets/d9a43c53-0eeb-4aea-b5f6-daf8e51ba02c)
 
 The assistant will greet you based on the current time and start listening for your commands.
+
 Future Improvements
+
+
 This project is a work in progress. Here are some planned features:
 •	Enhanced Conversation: Improving the assistant's conversational abilities.
 •	Email Support: Adding functionality to send emails using voice commands.
@@ -42,6 +46,8 @@ This project is a work in progress. Here are some planned features:
 •	Customizable Responses: Allowing users to personalize responses and commands.
 
 Contributing
+
+
 Contributions are welcome! If you have ideas or improvements, feel free to fork the repository and submit a pull request.
 
 
