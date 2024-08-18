@@ -1,4 +1,6 @@
 Sai's Personal AI Assistant
+
+
 Welcome to Sai's Personal AI Assistant, a Python-based project designed to be a voice-activated assistant that can perform various tasks like opening applications, searching Wikipedia, and interacting with the user. This is my first Python project, and it's continuously evolving to include new features and improvements.
 Features
 •	Voice Commands: The assistant can recognize and respond to voice commands using the speech_recognition library.
